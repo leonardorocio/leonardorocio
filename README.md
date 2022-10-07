@@ -19,9 +19,10 @@
 <h2> Formação </h2>
 <div>
  <img height="50" alt="udesc" width="50" src="https://www1.udesc.br/imagens/id_submenu/899/cor_vertical_rgb.jpg">
- <h5> Tecnologia em Análise e Desenvolvimento de Sistemas (2022-2024) - Cursando</h5>
- <img height="50" width="ifc" src="https://cecom.ifc.edu.br/wp-content/uploads/sites/17/2015/10/Logo_IFC_vertical.png">
- <h5> Técnico em Informática (2019-2021) - Concluído</h5>
+ <span><strong> Tecnologia em Análise e Desenvolvimento de Sistemas (2022-2024) - Cursando</strong></span>
+ <h3></h3>
+ <img height="50" width="50" alt="ifc" src="https://cecom.ifc.edu.br/wp-content/uploads/sites/17/2015/10/Logo_IFC_vertical.png">
+ <span><strong> Técnico em Informática (2019-2021) - Concluído</strong></span>
 </div>
 
 
